@@ -1,16 +1,26 @@
-### Hi there 👋
+<h2 align="center">Connect, Contact and Follow me :handshake:</h2>
 
-<!--
-**suzondas/suzondas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/suzon-das-2b8112aa/" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="Suzon Das" height="40" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/4350667/suzon-das?tab=topactivity" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Suzon Das" height="40" width="40" />
+  </a>
+  <a href="mailto:suzon.du@hotmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/nolan/64/email.png" alt="Suzon Das" height="40" width="40" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<br>
+<br>
+<h2 align="center">Github Stats</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=suzondas&hide=prs&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzondas&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
+</div>
+<br>
+<br>
+
