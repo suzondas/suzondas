@@ -12,10 +12,6 @@
   </a>
 </p>
 
-<br>
-<br>
-<h2 align="center">Github Stats</h2>
-
 <div>
   <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=suzondas&hide=prs&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
   
