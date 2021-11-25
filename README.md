@@ -13,9 +13,9 @@
 </p>
 
 <div>
-  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=suzondas&hide=prs&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
+  <img width="418px" align="left" src="https://github-readme-stats.vercel.app/api?username=suzondas&hide=prs&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzondas&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzondas&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
 </div>
 <br>
 <br>
