@@ -1,5 +1,5 @@
 <h2 align="center">Connect, Contact and Follow me :handshake:</h2>
-
+<a href="mailto:suzon.du@hotmail.com" target="blank">suzon.du@hotmail.com</a>
 <p align="center">
   <a href="https://www.linkedin.com/in/suzon-das-2b8112aa/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="Suzon Das" height="40" width="40" />
